@@ -67,3 +67,15 @@
      display: flex;
      gap: 15px;
  }
+
+ .box-7 {
+     background-color: hsl(4, 100%, 67%);
+     border-radius: 10px;
+     height: 40px;
+     margin-top: 10px;
+ }
+
+ .p-1 {
+     border-radius: 10px;
+     height: 30px;
+ }
